@@ -1,2 +1,2 @@
 # world-hello
-this is forth magic
+4 is the magic number
